@@ -25,7 +25,7 @@ You need to have a web browser installed on your machine to view and interact wi
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/amazon-front-end.git
+[git clone https://github.com/your-username/amazon-front-end.git](https://github.com/MD786Arif/amazonClone.git)
 ```
 
 2. Navigate to the project directory:
